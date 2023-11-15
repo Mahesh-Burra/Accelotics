@@ -1,130 +1,152 @@
-
-
 .bg-container {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyc5RFhMfJt5BdVwA2BFSBLnhdtmPGm3Habw&usqp=CAU");
-    width: 90%;
-    height: 78vh;
     background-size: cover;
-    padding-left: 87px;
-    padding-right: 49px;
-    color: black;
+    background-color: #ffffff;
 }
 
-.heading-1 {
-    font-family: serif;
-    font-size: 39px;
-    margin-bottom: 0px;
+.image-container {
+    background-image: url("https://res.cloudinary.com/argyle-media/image/upload/v1669731800/vacancies/software_engineer_760x330.jpg");
+    width: 100%;
+    background-size: cover;
 }
 
-.paragraph-1 {
-    font-family: serif;
-    font-size: 17px;
-    margin-top: 0px;
-    padding-left: 40px;
+.techno-heading {
+    margin-left: 30px;
+    margin-bottom: 0;
+    color: #ffffff;
 }
 
-.button-container {
-    background-color: white;
-    height: 30px;
-    padding-top: 1px;
-    margin-left: 820px;
-    border-radius: 2px;
-    width: 420px;
-    text-align:center;
-}
-
-.fpbuttons {
-    border-style: solid;
-    border-color: white;
-    color: black;
-    font-family: "bee serif";
-    font-size: 15px;
-    font-weight: bold;
-    background-color: white;
+.techno-para {
+    margin-left: 30px;
+    color: #ffffff;
 }
 
 .text-container {
-    margin-left: 120px;
-    margin-top: 80px;
+    padding: 20px;
+    margin-left: 60px;
 }
 
 .product-title {
-    padding-bottom: 0px;
-    font-size: 18px;
+    color: #ffffff;
 }
 
 .enterprise-title {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    font-size: 27px;
+    color: #ffffff;
 }
 
 .para-content {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    font-size: 17px;
-}
-.offer{
-    display: flex;
-    background-color: rgba(255, 255, 255, 0.705);
-}
-.text{
-    display: flex;
-    align-content: center;
-}
-.circle{
-    background-color: rgba(128, 128, 128, 0);
-    margin: 0px;
-
-}
-#base1{
-    max-width: 35vh;
-    height: 50vh;
-    margin-left: 20px;
-    padding:5px;
-    
-}
-#base2{
-    margin-left: 60px;
-    padding: 5px;
-    font-weight: 400;
-}
-#base3{
-    margin-left: 60px;
-    padding: 5px;
-}
-#base4{
-    margin-left: 60px;
-    padding: 5px;
+    color: #ffffff;
 }
 
-#base2 img{
-    max-width: 35vh;
-    height: 50vh;
-    margin: 0;
-    padding: 0;
-    
+.solutions-container {
+    text-align: center;
 }
-.circle{
-    background-color: beige;
+
+.our-ent-heading {
+    font-size: 40px;
+    font-family: serif;
+    margin-top: 80px;
 }
-#list1{
-    margin-left: 200px;
-    padding: 2px;
+
+.software-para {
+    font-size: 20px;
+    margin: 20px;
 }
-#list2{
-    margin-left: 60px;
-    padding: 5px;
+
+.latest-tech-container {
+    text-align: center;
 }
-#list3{
-    margin-left: 60px;
-    padding: 5px;
+
+.latest-heading {
+    font-size: 40px;
+    font-family: serif;
+    margin-top: 80px;
 }
-#list4{
-    margin-left: 60px;
-    padding: 5px;
+
+.latest-tech-para {
+    font-size: 20px;
+    margin: 20px;
 }
-#list5{
-    margin-left: 60px;
-    padding: 5px;
+
+.row-cards {
+    margin: 10px;
+    text-align: center;
+}
+
+.services {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.Technologies {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.platforms {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.company {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.contacts {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.hover-bg-container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0e-_9LqjP1sGwoLaB_v0Hdo1aA8R1Klc1SA&usqp=CAU");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.hover-bg-container1 {
+    background-image: url("https://img.freepik.com/free-vector/api-concept-illustration_114360-9822.jpg?w=740&t=st=1699990383~exp=1699990983~hmac=47bea03785998cfa8273a8c52166eff4f5d4d253ef2c1d1b2d2e2a4d1df72b33");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.hover-bg-container2 {
+    background-image: url("https://img.freepik.com/free-vector/appointment-booking-with-man-smartphone_23-2148554945.jpg?w=740&t=st=1699990533~exp=1699991133~hmac=867fdc538c5491085038452746ad9e2e702f9927f63d557c072bca155d1c23e9");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.hover-bg-container3 {
+    background-image: url("https://img.freepik.com/premium-vector/hr-personnel-recruiting-hiring-concept_70921-385.jpg?w=740");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
 }
