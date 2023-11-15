@@ -1,0 +1,130 @@
+
+
+.bg-container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyc5RFhMfJt5BdVwA2BFSBLnhdtmPGm3Habw&usqp=CAU");
+    width: 90%;
+    height: 78vh;
+    background-size: cover;
+    padding-left: 87px;
+    padding-right: 49px;
+    color: black;
+}
+
+.heading-1 {
+    font-family: serif;
+    font-size: 39px;
+    margin-bottom: 0px;
+}
+
+.paragraph-1 {
+    font-family: serif;
+    font-size: 17px;
+    margin-top: 0px;
+    padding-left: 40px;
+}
+
+.button-container {
+    background-color: white;
+    height: 30px;
+    padding-top: 1px;
+    margin-left: 820px;
+    border-radius: 2px;
+    width: 420px;
+    text-align:center;
+}
+
+.fpbuttons {
+    border-style: solid;
+    border-color: white;
+    color: black;
+    font-family: "bee serif";
+    font-size: 15px;
+    font-weight: bold;
+    background-color: white;
+}
+
+.text-container {
+    margin-left: 120px;
+    margin-top: 80px;
+}
+
+.product-title {
+    padding-bottom: 0px;
+    font-size: 18px;
+}
+
+.enterprise-title {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 27px;
+}
+
+.para-content {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 17px;
+}
+.offer{
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.705);
+}
+.text{
+    display: flex;
+    align-content: center;
+}
+.circle{
+    background-color: rgba(128, 128, 128, 0);
+    margin: 0px;
+
+}
+#base1{
+    max-width: 35vh;
+    height: 50vh;
+    margin-left: 20px;
+    padding:5px;
+    
+}
+#base2{
+    margin-left: 60px;
+    padding: 5px;
+    font-weight: 400;
+}
+#base3{
+    margin-left: 60px;
+    padding: 5px;
+}
+#base4{
+    margin-left: 60px;
+    padding: 5px;
+}
+
+#base2 img{
+    max-width: 35vh;
+    height: 50vh;
+    margin: 0;
+    padding: 0;
+    
+}
+.circle{
+    background-color: beige;
+}
+#list1{
+    margin-left: 200px;
+    padding: 2px;
+}
+#list2{
+    margin-left: 60px;
+    padding: 5px;
+}
+#list3{
+    margin-left: 60px;
+    padding: 5px;
+}
+#list4{
+    margin-left: 60px;
+    padding: 5px;
+}
+#list5{
+    margin-left: 60px;
+    padding: 5px;
+}
